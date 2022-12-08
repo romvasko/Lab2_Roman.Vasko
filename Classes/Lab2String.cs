@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab2_Roman.Vasko.Classes {
-    public class Lab2 {
+    public class Lab2String {
 
         static public string Task0(string task) {
             StringBuilder sb = new StringBuilder();
