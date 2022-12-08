@@ -1,0 +1,15 @@
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\bin\Debug\net6.0\Lab2_Roman.Vasko.exe
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\bin\Debug\net6.0\Lab2_Roman.Vasko.deps.json
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\bin\Debug\net6.0\Lab2_Roman.Vasko.runtimeconfig.json
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\bin\Debug\net6.0\Lab2_Roman.Vasko.dll
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\bin\Debug\net6.0\Lab2_Roman.Vasko.pdb
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\Lab2_Roman.Vasko.csproj.AssemblyReference.cache
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\Lab2_Roman.Vasko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\Lab2_Roman.Vasko.AssemblyInfoInputs.cache
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\Lab2_Roman.Vasko.AssemblyInfo.cs
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\Lab2_Roman.Vasko.csproj.CoreCompileInputs.cache
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\Lab2_Roman.Vasko.dll
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\refint\Lab2_Roman.Vasko.dll
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\Lab2_Roman.Vasko.pdb
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\Lab2_Roman.Vasko.genruntimeconfig.cache
+C:\Users\Frankenstein\source\repos\Lab2_Roman.Vasko\obj\Debug\net6.0\ref\Lab2_Roman.Vasko.dll
